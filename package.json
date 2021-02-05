@@ -1,6 +1,6 @@
 {
   "name": "todo",
-   "homepage": "https://github.com/bhavana522/To-do.git",
+  "homepage": "https://github.com/bhavana522/To-do.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
